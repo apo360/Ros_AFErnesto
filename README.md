@@ -1,2 +1,2 @@
 # Ros_AFErnesto
-Robotic Operation System Master
+Mestrado em Engenharia Naval Ramo de Armas e Eletronica
